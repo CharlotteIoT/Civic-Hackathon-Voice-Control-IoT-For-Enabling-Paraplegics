@@ -1,4 +1,0 @@
-Charlotte IoT: Wearable Temperature Monitor
-Tech Lead:  Mark Ingle 
-
-Description:  There are lots of options on how the team does this.  One option would be to go with a wearable watch or something commercial to monitor the temperature.  You can also go in the direction where you build something with a one wire bus temp sensor.  The goal is to have something reliable that can post the person's temperature to the cloud so that we can control the blanket or fan in the bedroom.  Its an extra bonus if we can use it for the wheelchair controls for the fan or electric jacket on the wheelchair.  I do not think its as important on the wheelchair because Nick or Sean can control with speech and its not like sleeping where the temperature wakes you up.
